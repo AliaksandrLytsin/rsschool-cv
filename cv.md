@@ -22,3 +22,5 @@
         </html>
         
 6. Experience: I have no experience except tasks in university.
+7. Education: Belarusian State University of Informatics and Radioelectronics.
+8. English: I was learning english at school and university. I can understand text and some speaking topics.
