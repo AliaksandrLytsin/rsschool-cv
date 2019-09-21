@@ -1,0 +1,22 @@
+body {
+  max-width: 1024px;
+  margin: 0 auto; 
+}
+
+article {
+  font-family: Poppins, "Helvetica", sans-serif;
+  font-size: 1.1em;
+}
+
+code {
+  background-color: #eee;
+  border: 1px solid #999;
+  display: block;
+  max-width: max-content;
+  padding: 0 10px;
+}
+
+img {
+  border: 1px solid black;
+  margin-top: 5px;
+}
